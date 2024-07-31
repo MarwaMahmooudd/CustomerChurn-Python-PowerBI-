@@ -7,6 +7,9 @@ Churn rate is a marketing metric that describes the number of customers who leav
 3-Historical purchase data among other information
 ## Tools Used
 ### Python (ML)
-1- Identifying at-risk customers in the context of customer churn by using machine learning algorithms to collect, clean, and organize datasets to build predictive models using customer datasets.
-2- Using Power BI to create interactive dashboards that visualize customer expectations and insights.
-3- Additional focus on improving employee retention rates and reporting in academic research.
+Identifying at-risk customers in the context of customer churn by using machine learning algorithms to collect, clean, and organize datasets to build predictive models using customer datasets such as LGBMClassifier, Logistic Regression, XGBClassifier, and XGBoost.
+### Power BI
+Using Power BI to create interactive dashboards that visualize customer expectations and insights.
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/520a0f5b-7b83-4fc0-a838-3794d0c5af91">
+
+
